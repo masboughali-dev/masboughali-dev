@@ -14,4 +14,4 @@ Frontend Engineer focused on React, scalable admin systems, and business-oriente
 Building reusable admin systems, operational dashboards, and portfolio-grade frontend architecture.
 
 ## Featured Projects
-- RBAC Admin Shell (coming soon)
+- RBAC Admin Shell
