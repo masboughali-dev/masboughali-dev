@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ali 👋
 
-<!--
-**masboughali-dev/masboughali-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer focused on React, scalable admin systems, and business-oriented product architecture.
 
-Here are some ideas to get you started:
+## Tech Stack
+- React
+- Redux Toolkit
+- Tailwind CSS
+- JavaScript / TypeScript
+- Vite
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+Building reusable admin systems, operational dashboards, and portfolio-grade frontend architecture.
+
+## Featured Projects
+- RBAC Admin Shell (coming soon)
