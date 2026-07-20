@@ -15,5 +15,5 @@ Building reusable admin systems, operational dashboards, and portfolio-grade fro
 
 ## Featured Projects
 - RBAC Admin Shell
-- R3P
-- R3P-Customer
+- Multi-Tenant Food Ordering Platform — Customer Frontend
+- Restaurant Vendor Admin Panel
